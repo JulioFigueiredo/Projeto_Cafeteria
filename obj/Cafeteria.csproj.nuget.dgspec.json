@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pablo\\OneDrive\\Desktop\\WebAppCafeteria - project\\ProjetoCafeteria\\Cafeteria\\Cafeteria.csproj": {}
+    "C:\\Projeto_Cafeteria_MVC\\Cafeteria.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pablo\\OneDrive\\Desktop\\WebAppCafeteria - project\\ProjetoCafeteria\\Cafeteria\\Cafeteria.csproj": {
+    "C:\\Projeto_Cafeteria_MVC\\Cafeteria.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pablo\\OneDrive\\Desktop\\WebAppCafeteria - project\\ProjetoCafeteria\\Cafeteria\\Cafeteria.csproj",
+        "projectUniqueName": "C:\\Projeto_Cafeteria_MVC\\Cafeteria.csproj",
         "projectName": "Cafeteria",
-        "projectPath": "C:\\Users\\pablo\\OneDrive\\Desktop\\WebAppCafeteria - project\\ProjetoCafeteria\\Cafeteria\\Cafeteria.csproj",
-        "packagesPath": "C:\\Users\\pablo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pablo\\OneDrive\\Desktop\\WebAppCafeteria - project\\ProjetoCafeteria\\Cafeteria\\obj\\",
+        "projectPath": "C:\\Projeto_Cafeteria_MVC\\Cafeteria.csproj",
+        "packagesPath": "C:\\Users\\Julio Figueiredo\\.nuget\\packages\\",
+        "outputPath": "C:\\Projeto_Cafeteria_MVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\pablo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Julio Figueiredo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
